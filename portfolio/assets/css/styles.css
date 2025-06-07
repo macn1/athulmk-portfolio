@@ -226,8 +226,10 @@ img {
   color: var(--first-color);
 }
 .home-social {
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
+  
 }
 .home-social-icon {
   width: max-content;
